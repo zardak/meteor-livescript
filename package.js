@@ -2,7 +2,7 @@ Package.describe({
   name: 'zardak:livescript',
   version: '0.1.0',
   summary: 'LiveScript is a fork of Coco and an indirect descendant of CoffeeScript.',
-  git: ''
+  git: 'https://github.com/zardak/meteor-livescript'
 });
 
 Package.registerBuildPlugin({
